@@ -24,5 +24,8 @@ public class C04_NavigateMethods {
 
         driver.quit();
 
+
+
+
     }
 }
